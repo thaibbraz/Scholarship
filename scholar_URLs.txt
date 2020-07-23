@@ -1,0 +1,6 @@
+# URL|HTML filename
+https://scholar.google.com/citations?user=Wj4ZBFIAAAAJ|DavidPatterson.html
+https://scholar.google.com/citations?user=JicYPdAAAAAJ|GeoffreyHinton.html
+https://scholar.google.com/citations?user=kukA0LcAAAAJ|YoshuaBengio.html
+https://scholar.google.com/citations?user=ZpG_cJwAAAAJ|RobertTibshirani.html
+# Rows starting with '#' are discarded
